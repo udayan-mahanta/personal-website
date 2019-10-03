@@ -1,0 +1,159 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  font-size: 6em;
+  color: #394a6d;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0px auto;
+}
+
+h2 {
+  font-size: 2.5rem;
+  color: #394a6d;
+  font-family: 'Kaushan Script', cursive;
+  margin: 0px auto 20px auto;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 10px;
+  font-size: 1.5em;
+}
+
+.topcont {
+  color: #394a6d;
+  background-color: #52de97;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #c0ffb3;
+  padding-bottom: 20px;
+}
+
+.bottom-container {
+  padding: 20px 10px 10px;
+  background-color: #3c9d9b;
+}
+
+.bcloud {
+  position: absolute;
+  left: 20%;
+  bottom: 300px;
+}
+
+.tcloud {
+  position: absolute;
+  right: 20%;
+  top: 50px;
+}
+
+.dp {
+  border-radius: 50%;
+}
+
+.skill1 {
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  float: left;
+  margin-right: 20px;
+}
+
+.skill2 {
+  border-radius: 50%;
+  height: 110px;
+  width: 110px;
+  float: right;
+  margin-left: 20px;
+}
+
+.skill3 {
+  border-radius: 50%;
+  height: 120px;
+  width: 120px;
+  float: left;
+  margin-right: 20px;
+}
+
+.profile {
+  padding: 50px;
+}
+
+.normal {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+}
+
+.skills {
+  padding: 50px;
+}
+
+.set {
+  padding-bottom: 20px;
+  margin: auto;
+}
+
+hr {
+  border: dotted 6px #394a6d;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto;
+}
+
+.contact-me {
+  padding: 50px;
+}
+
+.butn {
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #FFFFFF;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #30E3CB;
+  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+  background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+  text-decoration: none;
+}
+
+.butdown {
+  margin-bottom: 40px;
+}
+a{
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+.cr{
+  color: #eaf6f6;
+font-size: 0.75rem;
+}
